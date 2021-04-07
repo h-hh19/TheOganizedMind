@@ -1,0 +1,18 @@
+h1,
+h3 {
+  text-align: center;
+}
+.navigate {
+  display: flex;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  justify-content: space-between;
+  padding: 21px 31px;
+  box-sizing: border-box;
+  border-top: 2px solid gray;
+}
+.navigate div {
+  width: 51px;
+  height: 31px;
+}

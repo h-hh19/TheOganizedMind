@@ -1,0 +1,36 @@
+.scenario {
+  width: 400px;
+  height: 200px;
+  position: absolute;
+  top: 300px;
+  left: 37%;
+  border: 2px solid gray;
+  box-shadow: 5px 5px 21px gray;
+  border-radius: 21px;
+  font-weight: 800;
+}
+.arrow_time {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.line {
+  width: 300px;
+  height: 5px;
+  background-color: black;
+}
+.old {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 51px;
+}
+.year {
+  width: 100px;
+  height: 100px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  box-shadow: 10px 10px 21px gray;
+  text-align: center;
+}
+p {
+  text-align: center;
